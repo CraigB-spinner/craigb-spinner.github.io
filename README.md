@@ -1,7 +1,7 @@
 # Craig's GitHub repositories
 **for Arcade DIY fanatics**  
 
-[**Arcade-Spinner**](https://craigb-spinner.github.io/Arcade-Spinner/)  
+![](https://craigb-spinner.github.io/pics/IMG_3830.jpg)<br/>[**Arcade-Spinner**](https://craigb-spinner.github.io/Arcade-Spinner/)  
 A custom **Arcade Spinner** using standard Fight Stick box & Arduino micro-controller board.<br/>
 Use on racing games and Pong style games - simulate the steering wheel or paddle/spinner style controllers.<br/>
 URL: https://craigb-spinner.github.io/Arcade-Spinner/<br/>  
