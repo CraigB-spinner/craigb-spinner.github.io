@@ -1,5 +1,4 @@
-## for Arcade DIY fanatics {style=text-align:center}  
-## <p align="center"> for Arcade DIY fanatics </p>
+<p font-size="x-large" align="center"> for Arcade DIY fanatics </p>
 <br/>
 
 ![DIY Arcade Spinner](https://craigb-spinner.github.io/Pics/IMG_3830.jpg)<br/>[**Arcade-Spinner**](https://craigb-spinner.github.io/Arcade-Spinner/)  
