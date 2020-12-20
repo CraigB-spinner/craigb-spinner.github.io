@@ -1,4 +1,4 @@
-## Craig's GitHub repositories **for Arcade DIY fanatics**  
+## for Arcade DIY fanatics {style=text-align:center}  
 <br/>
 
 ![DIY Arcade Spinner](https://craigb-spinner.github.io/Pics/IMG_3830.jpg)<br/>[**Arcade-Spinner**](https://craigb-spinner.github.io/Arcade-Spinner/)  
