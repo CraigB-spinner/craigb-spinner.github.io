@@ -9,5 +9,5 @@ URL: https://craigb-spinner.github.io/Arcade-Spinner/<br/><br/>
 A custom **Arcade Trackball** using home-made fabricated box & Arduino micro-controller board.<br/>
 Use on games that have a big ball (Trackball) to control your movement.<br/>
 Use standard non-PS/2 Trackball (aka Happ/Atari style) with no-lag interface controller you build.<br/>
-URL: https://craigb-spinner.github.io/Arcade-Trackball/<br/>  
-
+URL: https://craigb-spinner.github.io/Arcade-Trackball/<br/>
+Video: [**Trackball in Action**](https://www.youtube.com/watch?v=E44fWpxooT4)<br/>  
