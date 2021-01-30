@@ -3,7 +3,8 @@
 ![DIY Arcade Spinner](https://craigb-spinner.github.io/Pics/Arcade%20Spinner.jpg)<br/>[**Arcade-Spinner**](https://craigb-spinner.github.io/Arcade-Spinner/)  
 A custom **Arcade Spinner** using standard Fight Stick box & Arduino micro-controller board.<br/>
 Use on racing games and Pong style games - simulate the steering wheel or paddle/spinner style controllers.<br/>
-URL: https://craigb-spinner.github.io/Arcade-Spinner/<br/><br/>  
+URL: https://craigb-spinner.github.io/Arcade-Spinner/<br/>
+Video: [**Spinner in Action**](https://www.youtube.com/watch?v=HmqkHAPZHQA)<br/><br/>  
 
 ![DIY Arcade Trackball](https://craigb-spinner.github.io/Pics/Arcade%20Trackball.jpg)<br/>[**Arcade-Trackball**](https://craigb-spinner.github.io/Arcade-Trackball/)  
 A custom **Arcade Trackball** using home-made fabricated box & Arduino micro-controller board.<br/>
