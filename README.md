@@ -14,10 +14,10 @@ URL: https://craigb-spinner.github.io/Arcade-Trackball/<br/>
 Video: [**Trackball in Action**](https://www.youtube.com/watch?v=E44fWpxooT4)<br/> <br/> <br/> 
 
 
-<H2 align="center"><b> for ATARI DIY fanatics </b></H2>
+<H2 align="center"><b> for Atari DIY fanatics </b></H2>
 
-![DIY Function Keys](https://craigb-spinner.github.io/Pics/IMG_2026.JPG)<br/>[**Atari XL/XE function keys**](https://craigb-spinner.github.io/Atari-XL-XE-function-keys/)  
+![DIY Function Keys](https://craigb-spinner.github.io/Pics/IMG_2026.JPG)<br/>[**Atari XL/XE function keys**](https://craigb-spinner.github.io/Atari-XL-XE-function-keys/) - *Have You Played ATARI Today!*   
 The **Atari 1200XL** introduced four function keys. <BR/>
-Release of the **600XL, 800XL, 65XE, and 130XE** kept most of ill-fated 1200XL Atari OS which still contained function key code.  
+Release of **600XL, 800XL, 65XE, and 130XE** kept most of ill-fated 1200XL Atari OS which still contained function key code.  
 You can mod your later model ATARIs to add cursor/function keys.  
 <BR/>
