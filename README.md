@@ -16,7 +16,7 @@ Video: [**Trackball in Action**](https://www.youtube.com/watch?v=E44fWpxooT4)<br
 
 
 
-![DIY Function Keys](https://craigb-spinner.github.io/Pics/2026.jpg)<br/>[**Atari XL/XE function keys**](https://craigb-spinner.github.io/Arcade-Spinner/) 
+![DIY Function Keys](https://craigb-spinner.github.io/Pics/IMG_2026.JPG)<br/>[**Atari XL/XE function keys**](https://craigb-spinner.github.io/Arcade-Spinner/) 
 
 # Atari XL/XE function keys
 The Atari 1200XL introduced four function keys. <BR/><BR/>
