@@ -18,6 +18,6 @@ Video: [**Trackball in Action**](https://www.youtube.com/watch?v=E44fWpxooT4)<br
 
 ![DIY Function Keys](https://craigb-spinner.github.io/Pics/IMG_2026.JPG)<br/>[**Atari XL/XE function keys**](https://craigb-spinner.github.io/Atari-XL-XE-function-keys/) - *Have You Played ATARI ... Today!*   
 The **Atari 1200XL** introduced four function keys. <br/>
-Release of **600XL, 800XL, 65XE, and 130XE** kept most of ill-fated 1200XL Atari OS which still contained function key code.  
+Release of **600XL, 800XL, 65XE, and 130XE** kept most of ill-fated 1200XL Atari OS which still retained code for function keys.  
 You can mod your later model ATARIs to add cursor/function keys.  
 <br/>
