@@ -14,7 +14,7 @@ URL: https://craigb-spinner.github.io/Arcade-Trackball/<br/>
 Video: [**Trackball in Action**](https://www.youtube.com/watch?v=E44fWpxooT4)<br/><br/>
 
 ![Dual Arcade Stick](https://craigb-spinner.github.io/Pics/Dual%20Stick.JPG)<br/>[**Dual Arcade Stick**](https://craigb-spinner.github.io/Arcade-Dual-Stick/)  
-A custom **Dual Arcade Stick** using home-made fabricated box & two Zero Delay Controller boards.<br/>
+A custom **Dual Arcade Stick** using home-made fabricated box & two Zero Delay Controller boards. 
 Use on games that have two joysticks to control your movement and directional fire.<br/>
 URL: https://craigb-spinner.github.io/Arcade-Dual-Stick/<br/>
 <br/> <br/> <br/> 
